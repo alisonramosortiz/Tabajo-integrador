@@ -1,0 +1,44 @@
+header {
+    background-color: #191717;
+    color: white;
+    padding: 10px; 
+}
+
+body {
+    background: linear-gradient(180deg, rgba(255, 215, 0, 1) 0%, rgba(244, 231, 230, 1) 94%);
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+
+.seccion1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.seccion1 img {
+    width: 50%; 
+    height: auto;
+}
+
+.seccion1 label {
+    width: 50%; 
+    text-align: center; 
+    margin-top: 20px;
+}
+
+
+.seccion2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.seccion2 img {
+    width: 50%; 
+    height: auto;
+}
+
+.seccion2 label {
+    width: 50%;  
+    text-align: center; 
+    margin-top: 10px; 
+}
